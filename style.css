@@ -1,0 +1,80 @@
+.container div{
+    float: left;
+}
+.information{
+    margin-left: 40px;
+    width: 60%;
+}
+
+.container{
+    width: 60%;
+    height:auto;
+    margin: 100px auto;
+    padding: 5px;
+    font-family:"Edu NSW ACT Foundation";
+    /* box-shadow: 0px 5px 5px rgb(180, 182, 182) inset; */
+    
+}
+
+img{
+    border-radius: 50%;
+    height: 250px;
+    /* margin: 57.5px auto; */
+}
+
+h1{
+    font-size: 50px;
+}
+
+.about{
+    font-size: 24px;
+    color: rgb(74, 72, 72);
+}
+
+*{
+    font-family: "Noto Sans Display";
+}
+sup{   
+     margin: 0 40px;
+}
+
+.contacts{
+    margin: 80px 40px 0 0;
+    font-size: 18px;
+    color:gray;
+}
+
+i{
+font-size: 30px;
+vertical-align:text-bottom;
+}
+
+.photo{
+    width: 30%;
+    height:auto ;
+    background-color: #4b4a4a;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 53px;
+}
+
+.portfolio{
+    width: 100%;
+    color: white;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.portfolio_title{
+    font-size: 24px;
+}
+
+.task1{
+    color: white;
+}
+
+.task1:hover{
+    color: burlywood;
+    text-decoration: none;
+    font-size: 24px;
+}
